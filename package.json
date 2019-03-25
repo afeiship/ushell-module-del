@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-del",
+  "version": "1.0.0",
+  "description": "For del command.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-del.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-del"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-del/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-del"
+}
