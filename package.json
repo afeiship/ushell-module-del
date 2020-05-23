@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-del/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-del"
+  "homepage": "https://github.com/afeiship/ushell-module-del",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
