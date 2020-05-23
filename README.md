@@ -1,11 +1,12 @@
 # ushell-module-del
 > For del command.
 
-## install:
+## installation
 ```shell
-npm i -S afeiship/ushell-module-del --registry=https://registry.npm.taobao.org
+npm i -S @feizheng/ushell-module-del
 ```
 
-## resources:
-
-## commands:
+## dependencies
+```shell
+npm i -g del-cli
+```

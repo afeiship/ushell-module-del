@@ -1,5 +1,5 @@
 {
-  "name": "ushell-module-del",
+  "name": "@feizheng/ushell-module-del",
   "version": "1.0.0",
   "description": "For del command.",
   "main": "index.sh",
