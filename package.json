@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/ushell-module-del",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For del command.",
   "main": "index.sh",
   "repository": {
