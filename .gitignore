@@ -1,0 +1,6 @@
+# vscode localhistory
+.history
+.vscode
+
+# nodejs
+node_modules
