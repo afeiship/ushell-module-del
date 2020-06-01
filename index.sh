@@ -9,5 +9,6 @@ alias g-remove='rm -rf * .* *.*';
 # rm
 alias rmf='rm -rf';
 alias rmn='rm -rf node_modules';
+alias rmh='rm -rf .history'
 
 unset ROOT_PATH;
