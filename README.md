@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-del
+npm i -S @jswork/ushell-module-del
 ```
 
 ## dependencies
