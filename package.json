@@ -9,12 +9,10 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-del"
-  ],
-  "authors": [
-    "feizheng <1290657123@qq.com>"
+    "module",
+    "del",
+    "remove",
+    "rm"
   ],
   "license": "MIT",
   "bugs": {
@@ -22,6 +20,11 @@
   },
   "homepage": "https://github.com/afeiship/ushell-module-del",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0",
+    "release-it": "^15.5.1"
   }
 }

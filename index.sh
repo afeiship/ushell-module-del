@@ -9,6 +9,9 @@ alias g-remove='rm -rf * .* *.*';
 # rm
 alias rmf='rm -rf';
 alias rmn='rm -rf node_modules';
-alias rmh='rm -rf .history'
+alias rmh='rm -rf .history';
+
+# for macos
+alias rmds='find . -name ".DS_Store" -print -delete';
 
 unset ROOT_PATH;
