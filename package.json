@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-del",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For del command.",
   "main": "index.sh",
   "repository": {
@@ -18,13 +18,12 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-del/issues"
   },
+  "scripts": {
+    "release": "release-it"
+  },
   "homepage": "https://github.com/afeiship/ushell-module-del",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
-  },
-  "devDependencies": {
-    "prettier": "^2.8.0",
-    "release-it": "^15.5.1"
   }
 }
